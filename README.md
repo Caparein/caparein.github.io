@@ -1,9 +1,6 @@
 # caparein.github.io
 Pagina web sobre la empresa CaPaReIn
 <HTML>
-	<HEAD>
-		<TITLE> CaPaReIn </TITLE>
-	</HEAD>
 	<BODY BGCOLOR= "#271F1F">
 	<BODY TEXT="WHITE">
 		<HR>
@@ -13,93 +10,6 @@ Pagina web sobre la empresa CaPaReIn
 		<P> <H2> <CENTER> ¿Que es CaPaReIn? </H2> </CENTER>
 		<P> <CENTER> CaPaReIn es el nombre que reciven nuesros locales de cafe internet los cuales ofrecen una amplia cobertura de internet para el uso de nuestros clientes, ademas de permitir el consumo y distribucion de alimentos desntro de nuestras instalaciones, esto con el fin de que todas las personas puedan hacer sus tareas diarias mientras se alimentan con nuestros productos de alta calidad.
 	</CENTER> </BODY> <HR>
-
-<H2><CENTER>Conoce mas sobre nuestra empresa</CENTER></H2>
-
-	<H3> ¿De donde nace nuestro nombre? </H3>
-		<P> Nuestro nombre nace de las inciales Ca-Pa-Re-In las cuales significan: Cafeteria, Panaderia, Reposteria e Internet
-
-	<H3> ¿Cual es nuestra mision? </H3>
-		<P> Hacer de nuestro establecimiento un lugar agradable y cómodo para todos y cada uno de los clientes y sus necesidades ademas de ofrecer un espacio en el que las personas se puedan distraer de la realidad.
-
-	<H3> ¿Cual es nuestra vision? </H3>
-		<P> Lograr que nuestro negocio llegué cada vez a más lugares del mundo para satisfacer las necesidades de todos los clientes a nivel mundial.
-
-	<H3> ¿Cual es nuestro eslogan? </H3>
-		<P> "Nada como trabajar, estudiar y disfrutar de la vida con un taza de CaPaReIn"
-
-	<H3> ¿Como surgio esta idea de negocio? </H3>
-		<P> Esta idea surgió de la problemática que hoy en día se presenta, la cual se basa en que esta generación necesita todo en un mismo lugar, esto con el fin de facilitar nuestra manera de estudiar, trabajar y nuestra vida diaria.
-
-	<H3> ¿Como se dividen los espacios en nuestros locales? </H3>
-		<P> <LI>El espacio para comer 
-		<P> Un lugar libre, tranquilo y silencioso en el que las personas se pueden acomodar, comer sus alimentos y hacer sus actividades en sus dispositivos electrónicos propios.
-		<P> <LI>La sala informática
-		<P> Allí sera un lugar para estudiar, trabajar y entretenerse , si alguien consume alimentos sobre los equipos es bajo su propio riesgo  y en caso de un accidente deberá pagar el precio del daño causado
-
-	<H3> ¿Donde estamos ubicados? </H3>
-		<P> Estamos oubicados en la ciudad de medellin en diferentes localidades (Barrios) como:
-		<P> <LI>Aranjuez
-		<P> <LI>Castilla
-		<P> <LI>Poblado
-		<P> <LI>Buenos aires
-		<P> <LI>Villa nueva
-
-	<H3> ¿Cual es nuestro horario de atencion? </H3>
-		<P> <LI>De Lunes a Viernes: 10:00am - 8:00pm
-		<P> <LI>Sabados y Domingos: 2:00pm - 12:00pm
-		<P> <LI>Festivos: 5:00pm - 10:00pm
-
-	<H3> ¿De donde son nuestros productos y servicios? </H3>
-		<P> <LI>Cafeteria
-		<P><A HREF="https://www.nescafe.com/co/"><IMG SRC="Nescafe.jpg" ALT="Nescafe" width="140" height="100"><A/>
-
-		<P> <LI>Panaderia
-		<P><A HREF="https://www.lamigueria.com.co/"><IMG SRC="LaMigueria.png" ALT="La Migueria" width="140" height="100"><A/>
-
-		<P> <LI>Reposteria
-		<P><A HREF="https://www.deli.com.co/Deli-Inicio/"><IMG SRC="Deli.png" ALT="Deli" width="140" height="100"><A/>
-
-		<P> <LI>Internet
-		<P><A HREF="https://www.tigo.com.co/internet/planes"><IMG SRC="Tigo.png" ALT="Tigo" width="140" height="100"><A/>
-
-	<H3> ¿Cuales son nuestras redes sociales? </H3>
-		<P><A HREF="https://mail.google.com/mail/u/0/#inbox"><IMG SRC="Gmail.png" ALT="Gmail" width="70" height="50"><A/>
-		<P> caparein.restzone@gmail.com
-
-		<P><A HREF=""><IMG SRC="Youtube.png" ALT="Youtube" width="70" height="50"><A/>
-		<P> CaPaReIn Rest Zone
-
-		<P><A HREF=""><IMG SRC="Instagram.png" ALT="Instagram" width="70" height="70"><A/>
-		<P> @caparein_restzone
-
-		<P><A HREF=""><IMG SRC="Facebook.png" ALT="Facebook" width="70" height="70"><A/>
-		<P> restzone_caparein
-
-		<P><A HREF=""><IMG SRC="Blogger.png" ALT="Blogger" width="70" height="70"><A/>
-		<P> www.caparein.blogger.com
-
-		<P><A HREF=""><IMG SRC="Rappi.png" ALT="Rappi" width="70" height="70"><A/>
-		<P> capareinrestzone
-
-		<P><A HREF=""><IMG SRC="Didi.png" ALT="Didi" width="70" height="70"><A/>
-		<P> caparein_restzone
-<HR>
-	<H3> Menu Local
-	<P><A HREF="menu.html"><IMG SRC="MenuLocal.png" ALT="Menu Local" width="130" height="130"><A/>
-
-	<H3> Reglas Empresariales
-	<P><A HREF="reglas.html"><IMG SRC="ReglasEmpresariales.png" ALT="Reglas Empresariales" width="130" height="130"><A/>
-
-	<H3> Logo Empresarial
-	<P><A HREF="imagen.html"><IMG SRC="CaPaReIn_Logo.png" ALT="Logo Empresarial" width="130" height="130"><A/>
-
-	<H3> Informe ejecutivo
-	<P><A HREF="CaPaReIn_InformeEjecutivo.pdf"><IMG SRC="InformeEjecutivo.png" ALT="Informe Ejecutivo" width="130" height="130"><A/>
-
-	<H3> Video Publicitario
-	<P><A HREF="https://youtu.be/j22AiveiRLw"><IMG SRC="VideoPublicitario.png" ALT="Video Publicitario" width="130" height="130"><A/>
-</P>
 <HR>
 <H4><CENTER><A HREF="mailto:juperezr@presbiterocamilotorresres.edu.co"> Correo de contacto </A></CENTER></H4><HR>
 </HTML>
